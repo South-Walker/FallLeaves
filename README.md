@@ -13,5 +13,5 @@
 
 ## 引用
 [1] [游戏物理落叶效果实现](https://zhuanlan.zhihu.com/p/143687250)<br>
-[2] Macklin M , Mueller M , Chentanez N , et al. Unified particle physics for real-time applications[J]. Acm Transactions on Graphics, 2014, 33(4CD):1-12.
-[3] Bender J , Matthias Müller, Macklin M . Position-Based Simulation Methods in Computer Graphics[C]// Tutorial Proceedings of Eurographics. 2015.
+[2] Macklin M , Mueller M , Chentanez N , et al. Unified particle physics for real-time applications[J]. Acm Transactions on Graphics, 2014, 33(4CD):1-12.<br>
+[3] Bender J , Matthias Müller, Macklin M . Position-Based Simulation Methods in Computer Graphics[C]// Tutorial Proceedings of Eurographics. 2015.<br>
